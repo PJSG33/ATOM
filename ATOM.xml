@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Canal de noticias</title>
+    <link href="https://noticiasindex.neocities.org/" rel="alternate" />
+    <updated>2024-01-10T00:00:00Z</updated>
+    <author>
+        <name>Ayuntamiento de Córdoba</name>
+        <email>editor@aytocordoba.com</email>
+    </author>
+    <id>https://noticiasindex.neocities.org/</id>
+    <category term="Cultura" />
+    <category term="Actualidad" />
+    <category term="Sede Electrónica" />
+    <entry>
+        <title>Noticia 1</title>
+        <link href="https://noticiasindex.neocities.org/#articulo1" />
+        <id>https://noticiasindex.neocities.org/#articulo1</id>
+        <updated>2024-01-10T00:00:00Z</updated>
+        <summary>Contenido de la Noticia 1...</summary>
+        <category term="Cultura" />
+    </entry>
+    <entry>
+        <title>Noticia 2</title>
+        <link href="https://noticiasindex.neocities.org/#articulo2" />
+        <id>https://noticiasindex.neocities.org/#articulo2</id>
+        <updated>2024-01-10T00:00:00Z</updated>
+        <summary>Contenido de la Noticia 2...</summary>
+        <category term="Cultura" />
+    </entry>
+    <entry>
+        <title>Noticia 3</title>
+        <link href="https://noticiasindex.neocities.org/#articulo3" />
+        <id>https://noticiasindex.neocities.org/#articulo3</id>
+        <updated>2024-01-10T00:00:00Z</updated>
+        <summary>Contenido de la Noticia 3...</summary>
+        <category term="Cultura" />
+    </entry>
+</feed>
